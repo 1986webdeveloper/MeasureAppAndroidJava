@@ -17,8 +17,7 @@ This demo app uses the Augmented Reality. To make this working you will require 
 
     ```
     implementation 'com.google.ar:core:1.11.0'
-    // Obj - a simple Wavefront OBJ file loader
-    // https://github.com/javagl/Obj
+    
     implementation 'de.javagl:obj:0.2.1'
     ```
     
