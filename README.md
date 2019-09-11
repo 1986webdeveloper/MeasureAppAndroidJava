@@ -7,4 +7,4 @@ This demo app uses the Augmented Reality. To make this working you will require 
 <b>Requirements :</b>
 - Android Studio
 - Android device with ARCore supported
-You can see supported android devices in this link : https://developers.google.com/ar/discover/supported-devices
+- You can see supported android devices in this link : https://developers.google.com/ar/discover/supported-devices
