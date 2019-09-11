@@ -12,8 +12,11 @@ This demo app uses the Augmented Reality. To make this working you will require 
   https://developers.google.com/ar/discover/supported-devices
   
 <b>Usage :</b>
-1. Clone or download this project
 
-2. Import below code to your build.gradle(Module: app) file
+1. Import below code to your build.gradle(Module: app) file
 
-    ```implementation 'com.google.ar:core:1.11.0')```
+    ```implementation 'com.google.ar:core:1.11.0'```
+    
+2. Clone or download this project
+    
+3. Paste all java files in your project
