@@ -24,3 +24,6 @@ This demo app uses the Augmented Reality. To make this working you will require 
 2. Clone or download this project
     
 3. Paste all java files in your project
+
+
+<b>Output :-</b>
