@@ -15,7 +15,7 @@ This demo app uses the Augmented Reality. To make this working you will require 
 
 1. Import below code to your build.gradle(Module: app) file
 
-    ```
+    ```gradle
     implementation 'com.google.ar:core:1.11.0'
     
     implementation 'de.javagl:obj:0.2.1'
